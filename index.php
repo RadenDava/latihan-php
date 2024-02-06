@@ -1,4 +1,5 @@
 <!doctype html>
+<!-- ini adalah latihan pertama saya  -->
 <html lang="en">
   <head>
     <meta charset="utf-8">
